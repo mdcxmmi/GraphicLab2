@@ -1,0 +1,21 @@
+﻿  GraphicLab2.cpp
+C:\Users\DAV\source\repos\GraphicLab2\GraphicLab2.cpp(110,27): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\DAV\source\repos\GraphicLab2\GraphicLab2.cpp(119,27): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\DAV\source\repos\GraphicLab2\GraphicLab2.cpp(128,27): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\DAV\source\repos\GraphicLab2\GraphicLab2.cpp(137,27): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\DAV\source\repos\GraphicLab2\GraphicLab2.cpp(249,38): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\DAV\source\repos\GraphicLab2\GraphicLab2.cpp(250,38): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\DAV\source\repos\GraphicLab2\GraphicLab2.cpp(251,38): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\DAV\source\repos\GraphicLab2\GraphicLab2.cpp(253,38): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\DAV\source\repos\GraphicLab2\GraphicLab2.cpp(254,38): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\DAV\source\repos\GraphicLab2\GraphicLab2.cpp(255,38): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\DAV\source\repos\GraphicLab2\GraphicLab2.cpp(240,10): warning C4101: ClearBox: неиспользованная локальная переменная
+C:\Users\DAV\source\repos\GraphicLab2\GraphicLab2.cpp(285,38): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\DAV\source\repos\GraphicLab2\GraphicLab2.cpp(286,38): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\DAV\source\repos\GraphicLab2\GraphicLab2.cpp(287,38): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\DAV\source\repos\GraphicLab2\GraphicLab2.cpp(289,38): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\DAV\source\repos\GraphicLab2\GraphicLab2.cpp(290,38): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\DAV\source\repos\GraphicLab2\GraphicLab2.cpp(291,38): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\DAV\source\repos\GraphicLab2\GraphicLab2.cpp(278,10): warning C4101: ClearBox: неиспользованная локальная переменная
+C:\Users\DAV\source\repos\GraphicLab2\GraphicLab2.cpp(145): warning C4715: BaseAngle: значение возвращается не при всех путях выполнения
+  GraphicLab2.vcxproj -> C:\Users\DAV\source\repos\GraphicLab2\Debug\GraphicLab2.exe
