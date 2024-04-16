@@ -11,7 +11,7 @@
 # Приложение для  вращение треугольника в плоскости экрана
 
 ## Иллюстрация работы приложения
-![](https://github.com/mdcxmmi/GraphicsLab2/images/demo.png)
+![](https://github.com/mdcxmmi/GraphicLab2/images/demo.gif)
 
 ## Предварительные условия
 
